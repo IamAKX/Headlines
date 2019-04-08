@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "340054534436",
+    "firebase_url": "https://headlines-b923c.firebaseio.com",
+    "project_id": "headlines-b923c",
+    "storage_bucket": "headlines-b923c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340054534436:android:be52c872bc03c9eb",
+        "android_client_info": {
+          "package_name": "com.akashapplications.headlines"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340054534436-thdmoe5qe49dekcrkkgnhu9h45evf6fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJGBKW4-HhM1aGvahOvd80TcrF_maZUFQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
